@@ -1,8 +1,8 @@
 # PyNtfy (PyNotify)
 This module allows you to easily send notification using [ntfy](https://ntfy.sh/).
-This includes multiple helper funtions
+This includes multiple helper funtions.
 
-More info can be found at the [ntfy docs](https://docs.ntfy.sh/publish/)
+More info can be found at the [ntfy docs](https://docs.ntfy.sh/publish/).
 
 ## Example
 ```
