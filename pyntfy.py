@@ -64,6 +64,8 @@ def Actions(*actions: dict):
 
     return actions_dict
 
+def Click(url: str):
+    return {"Click": url}
 
 
 def ntfy(
