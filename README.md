@@ -4,6 +4,8 @@ This includes multiple helper functions.
 
 More info can be found at the [ntfy docs](https://docs.ntfy.sh/publish/).
 
+**Not related to this one: https://pypi.org/project/pyntfy/**
+
 ## Example
 ```
 ntfy(
